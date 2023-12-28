@@ -1,0 +1,50 @@
+.auth-container {
+    text-align: center;
+    margin-top: 15vh;
+}
+
+.auth-login-text h3 {
+    font-size: 4vh;
+    margin-top: 1vh;
+}
+
+.inputText {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.inputText input {
+    width: 80%;
+    max-width: 40vh;
+    height: 5vh;
+    margin-top: 1vh;
+    padding: 0.5vh;
+    font-size: 2vh;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.inputText p {
+    font-size: 1.8vh;
+}
+
+.buttonConfirm {
+    margin-top: 2vh;
+}
+
+.buttonConfirm button {
+    height: 5vh;
+    width: 20vh;
+    cursor: pointer;
+    font-size: 2vh;
+    letter-spacing: 0.09rem;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.buttonConfirm button:hover {
+    background-color: #2980b9;
+}
